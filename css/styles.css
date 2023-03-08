@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+body{
+    background-color: white;
+}
+header p {
+    color: black;
+    background-color: #1CD1B0;
+    padding: 5px;
+}
+header h1{
+    color: black;
+    background-color: #00669F;
+    padding: 26px;
+}
+.image-gallery{
+    display: flex;
+    justify-content: center;
+    margin-top: 121px;
+}
+.batman-info{
+    background-color: #F3F3F3;
+    display: inline-block;
+    flex-direction: column;
+}
+.background-batman-image{
+    position: absolute;
+}
+.batman-image{
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 135px;
+}
+.batman-info h2{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 275px;
+    margin-right: 240px;
+    margin-left: 80px;
+}
+.batman-info p{
+    margin-top: 15px;
+    width: 267px;
+    height: 110px;
+    font-family: 'Roboto';
+    font-style: normal;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #333333;
+}
+.harley-info{
+    background-color: #F3F3F3;
+    display: inline-block;
+    flex-direction: column;
+}
+.background-harley-image{
+    position: absolute;
+}
+.harley-image{
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 135px;
+}
+.harley-info h2{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 275px;
+    margin-right: 250px;
+    margin-left: 80px;
+}
+.harley-info p{
+    margin-top: 15px;
+    width: 267px;
+    height: 113px;
+    font-family: 'Roboto';
+    font-style: normal;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #333333;
+}
+.batman-info2{
+    background-color: #F3F3F3;
+    display: inline-block;
+    flex-direction: column;
+}
+.background-batman-image2{
+    position: absolute;
+}
+.batman-image2{
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 135px;
+}
+.batman-info-2 h2{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 270px;
+    margin-right: 250px;
+    margin-left: 80px;
+}
+.batman-info-2 p{
+    margin-top: 15px;
+    width: 267px;
+    height: 113px;
+    font-family: 'Roboto';
+    font-style: normal;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #333333;
+}
+button{
+    margin-top: 15px;
+    margin-left: 100px;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: #00669F;
+}
+.corazon {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    z-index: 1;
+    }
+footer p{
+    padding: 10px;
+    margin-top: 252px;
+    color: white;
+    background-color: #00669F;
+}
